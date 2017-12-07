@@ -1,3 +1,2 @@
 # Arduino-Game
-A small project which resembles the old Earth Defender Game on an 8x8 LED Matrix
   As the title says, this is a project written in Arduino, which is meant to resemble the old tower defense game : Earth Defender. The purpose of the game is pretty simple. It starts with a shuttle at the bottom of the matrix which can move horizontally and is able to shoot projectiles to the continously spawning meteors. The meteors should not pass you, otherwise they will hit the earth. In terms of hardware i have used 3 breadboards, a bunch of wires, an ArduinoUno card, two 100k rezistors, 2 condensers, an analogic joystick, an LCD display(where the score and lives are shown) and, most importantly, the 8x8 Matrix.
