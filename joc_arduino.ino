@@ -21,7 +21,6 @@ struct positions {
   int row, col;
 };
 
-
 typedef struct positions positions;
 
 positions meteors[30], projectiles[30], toDelete[30]; //the arrays that contain the meteors, projectiles and the objected to be deleted from the matrix
